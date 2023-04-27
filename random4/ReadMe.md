@@ -1,1 +1,1 @@
-Nitro Generator and checks thats all
+Nitro Generator and checks if it works thats all.
