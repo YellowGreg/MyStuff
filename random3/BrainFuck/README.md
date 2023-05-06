@@ -1,3 +1,5 @@
+##
+- I learn this from google search and youtube tutorial.
 ## Breakdown
 ```css
 ++++++++                    ; Initialize the first cell to 8 (ASCII value of '[')
