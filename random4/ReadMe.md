@@ -1,1 +1,2 @@
-Nitro Generator and checks if it works thats all.
+- Nitro Generator and checks if it works thats all. `nitro.py`
+- Generates a random Number, and generates a Even or Odd, or Generates a random string. `RandomLua.lua`
